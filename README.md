@@ -1,5 +1,6 @@
-![sussybot preview](https://cdn.discordapp.com/attachments/1002680429658251265/1021054485574975508/preview.gif)
-
+<p align="center">
+  <img src="https://github.com/xgreenapple/sfml-raycasting/blob/main/preview.gif"/>
+</p>
 # Ray Casting
 **Ray casting algorithm implemented in sfml**
 
