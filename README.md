@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/xgreenapple/sfml-raycasting/blob/main/preview.gif"/>
-</p>
+</p> <br>
+
+
 # Ray Casting
 **Ray casting algorithm implemented in sfml**
 
