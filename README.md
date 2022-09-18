@@ -4,7 +4,7 @@
 
 
 # Ray Casting
-** Simple Ray casting algorithm implemented in sfml**
+**Simple Ray casting algorithm implemented in sfml**
 
 ## how to run
 in order to run the code you need to Download and install sfml first,
