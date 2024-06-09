@@ -8,7 +8,7 @@
 **Simple Ray casting algorithm implemented in sfml**
 
 ## how to run
-Nn order to run the code you need to download and install required libraries and frameworks, sfml is required.
+In order to run the code you need to download and install required libraries and frameworks, sfml is required.
 Sfml download link can be found [here](https://www.sfml-dev.org/download.php) <br> 
 after installing required libraries you have to link them in your prefered IDE.
 Official Installation tutorial for osx, xcode can be found [here](https://www.sfml-dev.org/tutorials/2.5/start-osx.php). <br>
